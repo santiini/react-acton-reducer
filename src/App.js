@@ -4,13 +4,6 @@ import { connect } from 'react-redux';
 import logo from './logo.svg';
 import './App.css';
 
-console.log(2222222222)
-
-console.log(4444444444)
-
-console.log(555555555)
-
-
 @connect(state => ({state}))
 class App extends Component {
   render() {
